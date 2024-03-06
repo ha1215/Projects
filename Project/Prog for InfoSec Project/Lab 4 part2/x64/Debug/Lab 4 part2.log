@@ -1,0 +1,31 @@
+﻿  Source.c
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(18,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(19,7): error C2065: 'jmp': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(19,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(20,3): error C2065: 'eax': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(20,3): error C2146: syntax error: missing ';' before identifier 'pop'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(20,7): error C2065: 'pop': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(20,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(21,3): error C2065: 'eax': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(21,3): error C2146: syntax error: missing ';' before identifier 'pop'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(21,7): error C2065: 'pop': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(21,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(22,3): error C2065: 'eax': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(22,3): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(22,7): error C2065: 'jmp': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(22,7): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(23,3): error C2065: 'esp': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(23,3): error C2146: syntax error: missing ';' before identifier 'ret'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(24,2): error C2065: 'ret': undeclared identifier
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(24,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(30,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(96,55): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(114,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(117,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(119,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(121,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(134,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(137,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(140,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(168,61): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\حسن\OneDrive\سطح المكتب\Source.c(178,61): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data

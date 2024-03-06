@@ -1,0 +1,2 @@
+﻿Prog2.obj : error LNK2005: main already defined in prog1.obj
+C:\Users\حسن\CSEC 201\121212\x64\Debug\121212.exe : fatal error LNK1169: one or more multiply defined symbols found
